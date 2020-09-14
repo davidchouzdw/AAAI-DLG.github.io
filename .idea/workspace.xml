@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600035131488</updated>
-      <workItem from="1600035136593" duration="13428000" />
+      <workItem from="1600035136593" duration="13841000" />
     </task>
     <servers />
   </component>
@@ -54,5 +55,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Notifications/0.0.1920.1040/-1050.0.1050.1640@0.0.1920.1040" timestamp="1600059965603" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600060810339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1050.0.1050.1640@0.0.1920.1040" timestamp="1600060810339" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1600060812507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1050.0.1050.1640@0.0.1920.1040" timestamp="1600060812507" />
   </component>
 </project>
